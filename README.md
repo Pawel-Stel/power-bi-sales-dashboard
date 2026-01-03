@@ -15,6 +15,7 @@ The report focuses on monthly trends, portfolio performance and the effectivenes
 ## Christmas Campaign Analysis
 The campaign page highlights a record-breaking December by comparing results against the previous month and the same period last year.  
 The analysis demonstrates a clear performance uplift, confirming the effectiveness of seasonal marketing initiatives.
+![Christmas Campaign](christmas_campaign_summary.png)
 
 ## Tools & Technologies
 - Power BI (DAX, Power Query)
