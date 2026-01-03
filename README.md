@@ -1,6 +1,7 @@
 # Power BI Sales Dashboard
 
 ## Overview
+![Overview](dashboard.png)
 This project presents an interactive Power BI dashboard designed to analyze sales performance and campaign impact in a financial services context.  
 The report focuses on monthly trends, portfolio performance and the effectiveness of a Christmas marketing campaign.
 
